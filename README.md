@@ -15,8 +15,7 @@ A user-friendly desktop calculator application built with Python and Tkinter. Th
 ---
 
 ##  Screenshot
-
-> *(Optional: Include a screenshot of the calculator UI here)*  
+  
 > <img width="298" height="425" alt="Screenshot 2025-08-13 062627" src="https://github.com/user-attachments/assets/cf3bb747-7f37-4e7c-8c4d-096b27c6965f" />
 
 
