@@ -30,5 +30,5 @@ A user-friendly desktop calculator application built with Python and Tkinter. Th
 
 ```bash
 git clone https://github.com/yourusername/python-calculator.git
-cd python-calculator
+cd calulator_xe
 
