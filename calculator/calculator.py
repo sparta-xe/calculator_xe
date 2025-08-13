@@ -59,15 +59,3 @@ for row in buttons:
 
 root.mainloop()
 
-
-# In[4]:
-
-
-pip install nbconvert
-
-
-# In[6]:
-
-
-get_ipython().system('jupyter nbconvert --to script calculator.ipynb')
-
