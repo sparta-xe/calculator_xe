@@ -29,6 +29,6 @@ A user-friendly desktop calculator application built with Python and Tkinter. Th
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/python-calculator.git
+git clone https://github.com/sparta-xe/calculator_xe.git
 cd calulator_xe
 
